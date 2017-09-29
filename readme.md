@@ -1,4 +1,4 @@
-Timer app using React
+Timer app using React and foundation
 
 hosted on heroku
 
